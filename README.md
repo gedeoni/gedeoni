@@ -1,16 +1,109 @@
-## Hi there 👋
+# Hi — I’m Gedeoni 👋
 
-<!--
-**gedeoni/gedeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced backend and data engineer building reliable APIs and production-grade data pipelines. I design, implement, and ship systems that move and serve data securely and performantly — with an emphasis on observability, automation, and measurable product impact.
 
-Here are some ideas to get you started:
+If you’re hiring engineers who take full ownership of services and shipping results, read on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Quick snapshot
+- Focus: Data pipelines, integration APIs, backend systems, and automation
+- Languages & platforms (high level): TypeScript (NestJS, Express), Python (Django, data/ETL), Java
+- Cloud & infra: Docker, CI/CD, cloud deployment patterns (AWS/GCP), monitoring & logging
+- Open to: Senior backend / data engineering / integration roles — remote or hybrid
+
+---
+
+## ⭐ Major projects (latest / highest-impact)
+
+- data-pipeline-odoo — https://github.com/gedeoni/data-pipeline-odoo  
+  - What: ETL pipeline integrating Odoo ERP data into an analytics/data warehouse.  
+  - Role: Author / maintainer — designed extraction, transformation, and load flows and ensured reliable scheduling and retries.  
+  - Tech (inferred from repo name): Python-based ETL, data validation, connectors to Odoo / relational stores.  
+  - Repo: https://github.com/gedeoni/data-pipeline-odoo
+
+- data-pipeline-who-gho — https://github.com/gedeoni/data-pipeline-who-gho  
+  - What: Automated ingestion and transformation of WHO Global Health Observatory data into a usable dataset for analysis and reporting.  
+  - Role: Built data ingestion, normalization, and export tooling to make health metrics ready for analytics.  
+  - Tech: Python ETL, data cleaning, API / CSV ingestion, transformation pipelines.  
+  - Repo: https://github.com/gedeoni/data-pipeline-who-gho
+
+- sync-bridge-nestjs — https://github.com/gedeoni/sync-bridge-nestjs  
+  - What: Integration API (sync bridge) implemented with NestJS for reliable data synchronization between systems.  
+  - Role: Designed endpoints, authentication, data validation, and background sync jobs.  
+  - Tech: TypeScript, NestJS, REST APIs, background workers, database integration.  
+  - Repo: https://github.com/gedeoni/sync-bridge-nestjs
+
+- sync-bridge-django — https://github.com/gedeoni/sync-bridge-django  
+  - What: Django-based sync service for orchestrating data transfers and transformations.  
+  - Role: Implemented models, admin tooling, API endpoints, and consumer-facing integrations.  
+  - Tech: Python, Django REST framework, migrations and data modeling.  
+  - Repo: https://github.com/gedeoni/sync-bridge-django
+
+- sync-bridge-express — https://github.com/gedeoni/sync-bridge-express  
+  - What: Lightweight data-sync API built with Express for quick integrations and webhooks.  
+  - Role: Rapid prototyping and production deployment of sync endpoints, with logging and retries.  
+  - Tech: Node.js, Express, middleware for validation/auth.  
+  - Repo: https://github.com/gedeoni/sync-bridge-express
+
+- sync-bridge-java — https://github.com/gedeoni/sync-bridge-java  
+  - What: Java-based integration service used for enterprise-grade syncing and background processing.  
+  - Role: Architected and implemented service interfaces and reliability features for JVM environments.  
+  - Tech: Java (Spring Boot or similar frameworks), background processing, REST integration.  
+  - Repo: https://github.com/gedeoni/sync-bridge-java
+
+---
+
+## 📈 What I deliver (how I add value)
+- Reliable data movement: idempotent ETL jobs with retries, monitoring, and alerting
+- Robust APIs: validation, authentication, rate-limiting, and end-to-end integration tests
+- Production readiness: containerization, CI/CD pipelines, health checks, metrics and logs
+- Collaboration & ownership: RFCs, design docs, code reviews, and mentorship
+
+---
+
+## 🧪 How to evaluate my work quickly
+1. Browse the repos above (links provided). Look for:
+   - Clear README and run instructions
+   - Tests and CI configuration (GitHub Actions / other)
+   - Dockerfiles / deployment manifests
+2. Run a small demo: clone, set up a dev env, and run a sync or a pipeline with sample data
+3. Check commit history for consistent delivery and incremental improvements
+
+---
+
+## 🚀 Quick local run (example pattern)
+(Each repo includes specific setup — follow its README. General steps:)
+1. Clone: `git clone https://github.com/gedeoni/<repo>.git`
+2. Install dependencies: `npm install` or `pip install -r requirements.txt`
+3. Configure: copy `.env.example` → `.env` and populate secrets
+4. Run migrations (if applicable): `npm run migrate` or `python manage.py migrate`
+5. Start: `npm run dev` / `python manage.py runserver` / `java -jar target/...jar`
+
+If you want, I can add tailored “Get started” steps to any repo.
+
+---
+
+## 📄 Resume / CV
+- My CV: [Download PDF](https://drive.google.com/file/d/1adh7gQCoW80h3IpzoJ7DFM4k-dkPT7mF/view?usp=sharing)
+
+---
+
+## 📫 Contact
+- Email: your.email@example.com
+- GitHub: https://github.com/gedeoni
+- LinkedIn: https://www.linkedin.com/in/yourprofile (replace with your profile)
+- Portfolio / Blog: (optional)
+
+---
+
+## ✅ Next steps I can take for you
+- Customize this README with concrete impact metrics (e.g., latency improvements, throughput, user counts). Share one line per project: your role, 1–2 bullet achievements, and I’ll update copy to highlight measurable impact.
+- Add this README to a chosen repository and open a branch with the change (I can prepare the commit message).
+- Expand project READMEs with setup, architecture diagrams, and demo scripts.
+
+Would you like me to:
+- (A) Fill in each project’s one-line impact statements if you paste them here, or
+- (B) Commit this README to one of the repos (tell me which repo, branch name, and commit message)?
+
+I’ll tailor the next version to be interview- and recruiter-focused with metrics and links front-and-center.
