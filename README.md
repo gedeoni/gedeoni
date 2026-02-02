@@ -72,18 +72,6 @@ If you’re hiring engineers who take full ownership of services and shipping re
 
 ---
 
-## 🚀 Quick local run (example pattern)
-(Each repo includes specific setup — follow its README. General steps:)
-1. Clone: `git clone https://github.com/gedeoni/<repo>.git`
-2. Install dependencies: `npm install` or `pip install -r requirements.txt`
-3. Configure: copy `.env.example` → `.env` and populate secrets
-4. Run migrations (if applicable): `npm run migrate` or `python manage.py migrate`
-5. Start: `npm run dev` / `python manage.py runserver` / `java -jar target/...jar`
-
-If you want, I can add tailored “Get started” steps to any repo.
-
----
-
 ## 📄 Resume / CV
 - My CV: [Download PDF](https://drive.google.com/file/d/1adh7gQCoW80h3IpzoJ7DFM4k-dkPT7mF/view?usp=sharing)
 
