@@ -14,6 +14,34 @@ If you’re hiring engineers who take full ownership of services and shipping re
 
 ---
 
+## 🧠 Tech Stack
+
+**Languages**  
+Java · C# · JavaScript · Python · PHP · SQL
+
+**Frameworks & Platforms**  
+.NET Core · Spring · Django · NestJS · Laravel · React · Vue.js
+
+**Data & Infrastructure**  
+PostgreSQL · MySQL · MongoDB · RabbitMQ · CI/CD (GitHub Actions) · Azure
+
+**Automation & Tooling**  
+n8n · Zapier · OpenFaaS · Keycloak
+
+**Ways of Working**  
+Agile · Scrum · Systems Thinking · Documentation-Driven Development
+
+---
+
+## 📌 What You’ll Find Here
+
+- Backend and integration projects
+- Automation workflows and data pipelines
+- Clean, well-documented code focused on real-world impact
+- Experiments at the intersection of **systems, data, and AI**
+
+---
+
 ## ⭐ Major projects (latest / highest-impact)
 
 - data-pipeline-odoo — https://github.com/gedeoni/data-pipeline-odoo  
