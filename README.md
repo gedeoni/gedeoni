@@ -1,4 +1,4 @@
-# Hi — I’m Gedeoni 👋
+# Hi — I’m Gedeon 👋
 
 Experienced backend and data engineer building reliable APIs and production-grade data pipelines. I design, implement, and ship systems that move and serve data securely and performantly — with an emphasis on observability, automation, and measurable product impact.
 
