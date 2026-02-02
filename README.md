@@ -90,20 +90,8 @@ If you want, I can add tailored “Get started” steps to any repo.
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com
+- Email: gedeoniyonkuru@gmail.com
 - GitHub: https://github.com/gedeoni
-- LinkedIn: https://www.linkedin.com/in/yourprofile (replace with your profile)
-- Portfolio / Blog: (optional)
+- LinkedIn: https://www.linkedin.com/in/gedeonn/
 
 ---
-
-## ✅ Next steps I can take for you
-- Customize this README with concrete impact metrics (e.g., latency improvements, throughput, user counts). Share one line per project: your role, 1–2 bullet achievements, and I’ll update copy to highlight measurable impact.
-- Add this README to a chosen repository and open a branch with the change (I can prepare the commit message).
-- Expand project READMEs with setup, architecture diagrams, and demo scripts.
-
-Would you like me to:
-- (A) Fill in each project’s one-line impact statements if you paste them here, or
-- (B) Commit this README to one of the repos (tell me which repo, branch name, and commit message)?
-
-I’ll tailor the next version to be interview- and recruiter-focused with metrics and links front-and-center.
