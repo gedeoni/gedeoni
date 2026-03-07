@@ -10,7 +10,7 @@ If you’re hiring engineers who take full ownership of services and shipping re
 - Focus: Data pipelines, integration APIs, backend systems, and automation
 - Languages & platforms (high level): TypeScript (NestJS, Express), Python (Django, data/ETL), Java
 - Cloud & infra: Docker, CI/CD, cloud deployment patterns (AWS/GCP), monitoring & logging
-- Open to: Senior backend / data engineering / integration roles — remote or hybrid
+- Open to: Senior fullstack / data engineering / integration roles — remote or hybrid
 
 ---
 
