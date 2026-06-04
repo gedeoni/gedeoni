@@ -72,10 +72,20 @@ A state-of-the-art, privacy-focused Retrieval-Augmented Generation (RAG) system 
 ---
 
 ## 📈 What I deliver (how I add value)
-- **Reliable data movement**: Idempotent ETL/ELT jobs with retries, monitoring, and automated alerting.
-- **Robust APIs**: Strict input validation, authentication, rate-limiting, and end-to-end integration tests.
-- **Production readiness**: Proper containerization, optimized CI/CD pipelines, health checks, and structured logging.
-- **Collaboration & ownership**: RFCs, clean documentation, code reviews, and mentorship.
+
+- **AI & Intelligent Systems**: Designing stateful agent workflows (LangGraph, Agno), private RAG pipelines (LanceDB), and custom tools via the Model Context Protocol (MCP) to bridge LLMs with enterprise systems.
+- **Reliable Data Movement**: Idempotent ETL/ELT pipelines with automatic retries, validation, schema evolution, and real-time monitoring.
+- **Robust Multi-Language APIs**: Structuring clean, performant service layers (Spring Boot, NestJS, .NET Core, FastAPI, Axum, Fiber) with unified validation, authorization, and exhaustive testing.
+- **Production-Grade Infrastructure**: Containerized deployments (Docker), optimized GitHub Actions CI pipelines, structured logging, and robust observability setups.
+- **Ownership & Collaboration**: Delivering technical designs (RFCs), writing comprehensive documentation, conducting thorough reviews, and establishing engineering standards.
+
+### 🏢 Target Team & Company Fit
+I bring the most value to **high-growth startups, scale-ups, and modern engineering teams** that are:
+- **Building AI-integrated products**: Organizations wanting to deploy intelligent agents or privacy-focused, local RAG architectures without relying purely on high-cost, third-party cloud LLMs.
+- **Scaling their data foundation**: Teams that need stable, production-ready ETL/ELT pipelines to ingestion, transform, and structure data for analytical platforms or real-time feature stores.
+- **Modernizing backend APIs**: Companies looking for strong backend engineers who maintain clean code standards across diverse tech stacks (Python, Java, Go, Rust, C#, TypeScript).
+- **Optimizing Developer Workflows**: Teams seeking to reduce engineering friction by setting up monorepo tooling (CI/CD path-filtering, directory-sensitive pre-commit hooks), optimizing slow pipelines, and automating testing processes.
+- **Scaling & Mentoring Engineering Teams**: Organizations seeking to build high-performing, collaborative development environments. Leveraging my **Scrum Master** experience, I help teams refine agile processes, streamline cross-functional communication, and nurture a culture of ownership and mentorship.
 
 ---
 
