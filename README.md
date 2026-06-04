@@ -85,6 +85,7 @@ I bring the most value to **high-growth startups, scale-ups, and modern engineer
 - **Scaling their data foundation**: Teams that need stable, production-ready ETL/ELT pipelines to ingestion, transform, and structure data for analytical platforms or real-time feature stores.
 - **Modernizing backend APIs**: Companies looking for strong backend engineers who maintain clean code standards across diverse tech stacks (Python, Java, Go, Rust, C#, TypeScript).
 - **Optimizing Developer Workflows**: Teams seeking to reduce engineering friction by setting up monorepo tooling (CI/CD path-filtering, directory-sensitive pre-commit hooks), optimizing slow pipelines, and automating testing processes.
+- **Scaling & Mentoring Engineering Teams**: Organizations seeking to build high-performing, collaborative development environments. Leveraging my **Scrum Master** experience, I help teams refine agile processes, streamline cross-functional communication, and nurture a culture of ownership and mentorship.
 
 ---
 
