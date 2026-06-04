@@ -89,11 +89,6 @@ A state-of-the-art, privacy-focused Retrieval-Augmented Generation (RAG) system 
 
 ---
 
-## 📄 Resume / CV
-- **My CV**: [Download PDF](https://drive.google.com/file/d/1adh7gQCoW80h3IpzoJ7DFM4k-dkPT7mF/view?usp=sharing)
-
----
-
 ## 📫 Contact & Connect
 - **Email**: gedeoniyonkuru@gmail.com
 - **GitHub**: [github.com/gedeoni](https://github.com/gedeoni)
