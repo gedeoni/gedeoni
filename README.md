@@ -84,6 +84,7 @@ I bring the most value to **high-growth startups, scale-ups, and modern engineer
 - **Building AI-integrated products**: Organizations wanting to deploy intelligent agents or privacy-focused, local RAG architectures without relying purely on high-cost, third-party cloud LLMs.
 - **Scaling their data foundation**: Teams that need stable, production-ready ETL/ELT pipelines to ingestion, transform, and structure data for analytical platforms or real-time feature stores.
 - **Modernizing backend APIs**: Companies looking for strong backend engineers who maintain clean code standards across diverse tech stacks (Python, Java, Go, Rust, C#, TypeScript).
+- **Optimizing Developer Workflows**: Teams seeking to reduce engineering friction by setting up monorepo tooling (CI/CD path-filtering, directory-sensitive pre-commit hooks), optimizing slow pipelines, and automating testing processes.
 
 ---
 
